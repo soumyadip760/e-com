@@ -1,0 +1,25 @@
+.wrapper{
+    position: relative;
+}
+
+.slide:nth-child(1){
+    position: absolute;
+    top: 0;
+    left: 0%;
+    background: #f5fafd;
+}
+.slide:nth-child(2){
+    position: absolute;
+    top: 0;
+    left: 100%;
+    background: #fcf1ed;
+}
+.slide:nth-child(3){
+    position: absolute;
+    top: 0;
+    left: 200%;
+    background: #fbf0f4;
+}
+
+/*  */
+/*  */
